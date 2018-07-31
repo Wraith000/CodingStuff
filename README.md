@@ -1,3 +1,0 @@
-# CodingStuff
-Learning stuff
-Test
